@@ -1,0 +1,156 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.head img {
+   width: 100%;
+   height: 1000px;
+}
+.head .opac{
+    background-color: #392D3B;
+    position: absolute;
+    width: 100%;
+    height: 1004px;
+    opacity: 60%;
+    margin-top: -53%;
+}
+.menu .nav {
+    display: block;
+    overflow: hidden;
+    position: absolute;
+    left: 60%;
+    margin-top: -50%;
+
+}
+.menu .nav a{
+    text-decoration: none;
+    color: white;
+    margin-left: 15px;
+}
+.menu .nav a:hover{
+    border: 2px solid rgb(152, 255, 200);
+    padding: 5px 5px 5px 5px;
+}
+.menu h1 {
+    font-family: 'Poppins Medium';
+    display: block;
+    overflow: hidden;
+    position: absolute;
+    left: 2%;
+    margin-top: -50%;
+    color: white;
+}
+.cont {
+    position: absolute;
+    color: white;
+    font-family: 'Bebas Neue';
+    margin-top: -38%;
+    margin-left: 43%;
+}
+.cont h1 {
+    border: 4px solid white;
+    font-size: 70px;
+    padding: 10px 10px 10px 10px;
+    width: 150px;
+}
+.cont h2 {
+    margin-left: 20px;
+    font-size: 40px;
+    font-family: 'Bebas Neue';
+}
+.cont div {
+    border:  3px solid white;
+    border-width: 1px 90px 1px ;
+}
+.part2 {
+    background-color: #42363A;
+    position: absolute;
+    width: 100%;
+    height: 1000px;
+    margin-top: -3%;
+}
+.part2 h1 {
+    font-family: 'Bebas Neue';
+    color: white;
+    font-size: 50px;
+    margin-left: 15%;
+    margin-top: 7%;
+}
+.part2 .slid1 {
+    position: absolute;
+    margin-left: 15%;
+
+}
+.part2 .slid1 .center {
+    margin-left: -87%;
+    margin-top: 200px;
+    position: absolute;
+}
+.part2 .slid1 h3 {
+    font-family: 'Bebas Neue';
+    color: white;
+    font-size: 42px;
+    margin-top: -105%;
+    margin-left: 100px;
+    position: absolute;
+}
+.part2 .slid2 {
+    position: absolute;
+    margin-left: 40%;
+}
+.part2 .slid2 .center2 {
+    margin-left: -87%;
+    margin-top: 200px;
+    position: absolute;
+    width: 265px;
+    height: 258px;
+}
+.part2 .slid2 h3 {
+    font-family: 'Bebas Neue';
+    color: white;
+    font-size: 42px;
+    margin-top: -105%;
+    margin-left: 100px;
+    position: absolute;
+}
+.part2 .slid2 img {
+    width: 354px;
+    height: 644px;
+}
+.part2 .slid3 {
+    position: absolute;
+    margin-left: 65%;
+}
+.part2 .slid3 .center3 {
+    margin-left: -87%;
+    margin-top: 200px;
+    position: absolute;
+}
+.part2 .slid3 h3 {
+    font-family: 'Bebas Neue';
+    color: white;
+    font-size: 42px;
+    margin-top: -105%;
+    margin-left: 100px;
+    position: absolute;
+}
+footer img {
+    width: 100%;
+    position: absolute;
+    margin-top: 102%;
+}
+footer h2 {
+    font-family: 'Bebas Neue';
+    color: white;
+    position: absolute;
+    border: 4px solid white;
+    font-size: 70px;
+    padding: 10px 10px 10px 10px;
+    width: 150px;
+    margin-top: 105%;
+    margin-left: 45%;
+}
+
+
+
+
